@@ -1,6 +1,14 @@
-# New Project
+# Book Store
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+View, add, and delete books!
+
+## Built With
+
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
+* ![Snowpack Badge](https://img.shields.io/badge/Snowpack-2E5E82?logo=snowpack&logoColor=fff&style=flat)
+* ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+* ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat)
 
 ## Available Scripts
 
